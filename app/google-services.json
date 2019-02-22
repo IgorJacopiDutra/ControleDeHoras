@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1013876178100",
+    "firebase_url": "https://controledeponto-4305f.firebaseio.com",
+    "project_id": "controledeponto-4305f",
+    "storage_bucket": "controledeponto-4305f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013876178100:android:aaf5dbe819fd8d4e",
+        "android_client_info": {
+          "package_name": "com.example.reinaldo.tcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013876178100-nhmmiugrduj6kv0afgq8fsmree4eel2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reinaldo.tcc",
+            "certificate_hash": "6b925a0c40a723abb267174f7cc01fc6a24350e6"
+          }
+        },
+        {
+          "client_id": "1013876178100-ek0er9ign84sfh8t7lps1d59i7j5idvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbTj_VFtRcIyKopR8U8omX4dY6dePHti0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013876178100-ek0er9ign84sfh8t7lps1d59i7j5idvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

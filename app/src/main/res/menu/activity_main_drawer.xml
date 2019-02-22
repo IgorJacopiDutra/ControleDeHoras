@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_principal"
+            android:icon="@drawable/ic_principal_preto_24dp"
+            android:title="Principal" />
+        <item
+            android:id="@+id/nav_local"
+            android:icon="@drawable/ic_blocal_preto_24dp"
+            android:title="Local" />
+        <item
+            android:id="@+id/nav_wifi"
+            android:icon="@drawable/ic_wifi_preto_24dp"
+            android:title="Wifi" />
+        <item
+            android:id="@+id/nav_gps"
+            android:icon="@drawable/ic_gps_preto_24dp"
+            android:title="GPS" />
+        <item
+            android:id="@+id/nav_relatorio"
+            android:icon="@drawable/ic_relatorio_preto_24dp"
+            android:title="Relatório" />
+    </group>
+
+    <item android:title="Configurações">
+        <menu>
+            <item
+                android:id="@+id/nav_conta"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Conta" />
+
+            <item
+                android:id="@+id/nav_foto"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Alterar Perfil" />
+        </menu>
+    </item>
+
+</menu>

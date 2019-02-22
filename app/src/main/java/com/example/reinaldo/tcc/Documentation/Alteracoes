@@ -1,0 +1,33 @@
+FEITAS
+03/08/2018 - Criado função que mostra e esconde botão FloatActio e manipulado o da MainActivity quando clica nos fragments do Menu e os FloatAction de cada Activity que estava escondido atras do Action da Main que ja faz as funções necessarias.
+           - Alterado layout do fragment_principal, adicionando o relógio na tela.
+	       - Alterado "limpado" o layout do content_main pois tecnicamente ele não é usado pois utilizamos o menu que chama os fragment e de inicio chama o fragment_principal.
+	       - Criado classe chamada Funcoes que conterá as funções padrões a serem utilizadas.
+
+PENDENTES
+
+0 - Pensar como iremos salvar as datas e horas
+1 - Realiza os INSERT's das telas dos PRIMEIROS PASSOS
+2 - Reformular estrutura do banco de dados Firebase separando os dados por Usuário
+<<<<<<< HEAD
+3 - Marcar o ponto pelo botão da fragmentPrincipal
+4 - Mostrar os pontos marcados
+=======
+>>>>>>> 43c77a0c2d42c317a193ae4ab7a68c53e819520a
+5 - A lista do Local/Gps/Wifi/Manual tem que poder editar
+6 - Fazer pagina dos dados pessoais para poder editar
+7 - Colocar campo foto nos dados pessoais
+8 - nav_header_main chamar informações de e-mail e foto
+9 - Quando clica no inserir Local/Gps/Wifi e volta pra tela de lista, acreditamos que esta sem "Limpar a variavel"
+<<<<<<< HEAD
+10 - Esconder configuração do menu
+11 - Esconder sair do menu
+12 - Criar layout de relatorio
+13 - Pegar GPS pois não busca automatico igual ao wifi
+14 - O spinner Local do GPS precisa buscar o cadastro de Local igual faz no WIFI e inserir
+=======
+12 - Criar layout de relatorio
+13 - Pegar GPS pois não busca automatico igual ao wifi
+14 - O spinner Local do GPS precisa buscar o cadastro de Local igual faz no WIFI e inserir
+
+>>>>>>> 43c77a0c2d42c317a193ae4ab7a68c53e819520a
